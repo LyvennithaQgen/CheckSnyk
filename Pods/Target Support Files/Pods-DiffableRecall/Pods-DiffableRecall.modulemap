@@ -1,0 +1,6 @@
+framework module Pods_DiffableRecall {
+  umbrella header "Pods-DiffableRecall-umbrella.h"
+
+  export *
+  module * { export * }
+}
